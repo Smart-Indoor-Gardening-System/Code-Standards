@@ -20,3 +20,6 @@ Frontend:
 Cloud Backend
 * All variables names should be in camelCase.
 * All function names should be in camelCase.
+* All lambda handlers used by Rest-api  should be wrapped with addCorsResHeaders middleware
+* Cloud infrastructre related code should be placed under the lib folder.
+* All test related code should be kept in test folder.
