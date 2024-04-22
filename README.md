@@ -15,7 +15,7 @@ Frontend:
 * /network folder should have netork related functions.
 * /endpoints folder in /networks folder should have url endpoints of backend.
 * /stores folder should keep zustand state management codes.
-*  Common layouts for a feature should be placed into layouts folder under the corresponed feature`s folder
+*  Common layouts for a feature should be placed into layouts folder under the corresponded feature`s folder
 
 Cloud Backend
 * All variables names should be in camelCase.
