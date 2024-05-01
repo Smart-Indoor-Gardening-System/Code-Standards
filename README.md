@@ -16,6 +16,14 @@ Frontend:
 * /endpoints folder in /networks folder should have url endpoints of backend.
 * /stores folder should keep zustand state management codes.
 *  Common layouts for a feature should be placed into layouts folder under the corresponded feature`s folder
+*  Use meaningful component names. Give component names that reflect their functionality.
+*  Break down components.
+*  Use destructuring. 
+*  Keep components small. 
+*  Use prop-types. 
+*  Use functional components. 
+*  Avoid using inline styles. 
+*  Use arrow functions.
 
 Cloud Backend
 * All variables names should be in camelCase.
